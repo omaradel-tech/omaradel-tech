@@ -1,32 +1,80 @@
 <h1 align="center">
- 👋 Hey, I'm Omar Adel
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  👋 Hey, I'm Omar Adel
 </h1>
 
 <h3 align="center">
-  Laravel Developer | Full Stack Engineer | Building Scalable Web Apps 🚀
+  Backend Engineer (Laravel) | Scalable Systems | SaaS & System Design 🚀
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Laravel+Developer;Full+Stack+Engineer;4%2B+Years+Experience;Always+Learning+New+Things&font=Fira%20Code&center=true&width=600&height=45&color=58a6ff&vCenter=true&size=22">
+  Building robust backend systems with clean architecture and real-world business logic
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-- Passionate software engineer specialized in **Laravel**
-- I love building **clean, scalable, and efficient systems**
-- Strong experience in **full-stack development**
-- Enjoy turning ideas into real-world applications
-- Always exploring new tools & improving my skills
+I'm a backend-focused engineer specializing in Laravel and PHP, with strong experience in building scalable systems and SaaS applications.
+
+I focus on designing clean, maintainable architectures and solving complex business problems — not just building features.
+
+* Build production-ready RESTful APIs
+* Design scalable system architectures
+* Optimize database performance & complex relationships
+* Apply SOLID principles and clean code practices
+
+---
+
+## ⚙️ Core Expertise
+
+* **Backend:** Laravel, PHP, REST APIs
+* **System Design:** SaaS, CRM systems, modular architecture
+* **Databases:** MySQL, PostgreSQL (performance optimization, relations)
+* **Architecture:** SOLID, Clean Architecture, MVC
+* **Integrations:** Payment gateways, third-party APIs
+
+---
+
+## 🚀 Featured Work
+
+### 🧠 CRM & Business Systems
+
+* Designed scalable lead & contact management systems
+* Handled complex business workflows and relationships
+* Built extensible and maintainable backend architecture
+
+### 💳 Subscription & SaaS Systems
+
+* Trial systems, auto-renewal, grace periods
+* Flexible pricing & package architecture
+* Designed for scalability and future extensions
+
+### 📦 Logistics Management System
+
+* Real-time shipment tracking
+* Route optimization & inventory handling
+* High-performance database design for large datasets
+
+### 🛒 E-Commerce Platform
+
+* Coupons, discounts, flash sales engine
+* Order & invoice management
+* Payment integrations (Stripe, PayPal)
+* Reporting & analytics dashboards
+
+### 🏫 School Management System
+
+* Multi-role system (Admin, Teacher, Parent)
+* Attendance, scheduling, communication modules
+* Payment integration & reporting
+* Zoom integration
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,tailwind,mysql,python,cpp,java,csharp,vscode,phpstorm&perline=8" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,js,html,css,tailwind,python,docker,git&perline=6" />
 </p>
 
 ---
@@ -34,25 +82,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omaradel-tech&show_icons=true&theme=tokyonight&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaradel-tech&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=omaradel-tech&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaradel-tech&layout=compact&theme=tokyonight&langs_count=6&hide=html,css" height="150"/>
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🧩 Engineering Mindset
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omaradel-tech&theme=tokyonight&no-frame=true&row=1&margin-w=15"/>
-</p>
-
----
-
-## 🔥 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/output/github-contribution-grid-snake.svg" />
-</p>
+* I think in **systems, not endpoints**
+* I design for **scale and maintainability**
+* I focus on **real business impact**
+* I build with **long-term sustainability in mind**
 
 ---
 
@@ -73,5 +114,5 @@
 ---
 
 <p align="center">
-  ⭐ If you like my work, consider giving a star!
+  💡 "Good code works. Great systems scale."
 </p>
